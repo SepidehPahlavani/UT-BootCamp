@@ -2,3 +2,4 @@
 This is my feature test.
 This is my first text file.
 
+this is 3rd line added. 
